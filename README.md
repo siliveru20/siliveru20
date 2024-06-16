@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruthi Siliveru</h1>
 <h3 align="center">A passionate Full Stack development</h3>
-<img align="right" alt="Coding" width="400 src="https://thumbs.dreamstime.com/z/girl-programmer-studying-programming-languages-online-courses-home-woman-works-laptop-student-remote-work-girl-235422682.jpg">
+<img align="right" alt="Coding" width="400 src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?t=st=1718523553~exp=1718527153~hmac=0aec8051eace1ad7519cbe4375e409f6d34b5d59c1dd23842e2315a572841ef8&w=740"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruthi20&label=Profile%20views&color=0e75b6&style=flat" alt="shruthi20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shruthisiliveru" target="blank"><img src="https://img.shields.io/twitter/follow/shruthisiliveru?logo=twitter&style=for-the-badge" alt="shruthisiliveru" /></a> </p>
