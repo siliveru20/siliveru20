@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruthi20&show_icons=true&locale=en" alt="shruthi20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruthi20&" alt="shruthi20" /></p>
+[![Shruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siliveru20)](https://github.com/anuraghazra/github-readme-stats&show_icons=true))
