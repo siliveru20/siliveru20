@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siliverushruthi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y-9-CY_-psGSAvxL9KpK5VpupZY3A4j0/view?usp=drive_link](https://drive.google.com/file/d/1y-9-CY_-psGSAvxL9KpK5VpupZY3A4j0/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1s83Rpp8BWUNeFqEP9BOUdg-7xODLeR6o/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
